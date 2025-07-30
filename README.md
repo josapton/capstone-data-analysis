@@ -3,6 +3,7 @@
 ## Overview
 Analyze Titanic passenger data to uncover survival patterns using AI.
 
+<img width="379" height="974" alt="image" src="https://github.com/user-attachments/assets/5220329f-3717-45a4-b33a-aac3cf157fcf" />
 
 ## Dataset
 Titanic data from Seaborn: https://github.com/mwaskom/seaborn-data
